@@ -16,13 +16,25 @@ get_manhuagui.exe "https://www.manhuagui.com/comic/7580/523083.html"<br>
 <h3>回應：</h3>
 {metadata json}<br>
 ####################################<br>
-Page Link<br>
-Page Link<br>
-Page Link<br>
-Page Link<br>
-Page Link<br>
+Page 1 Link<br>
+Page 2 Link<br>
+Page 3 Link<br>
+Page 4 Link<br>
+Page 5 Link<br>
 ...<br>
-
+<br>
+<h3>編譯環境：</h3>
+python36 (x86 32bit 版本)
+<br>
+<h3>相依套件：</h3>
+<ul>
+  <li>dukpy：需自行 C:\python36-32\scripts\pip.exe install dukpy</li>
+  <li>lzstring：需自行 C:\python36-32\scripts\pip.exe install lzstring</li>
+  <li>bs4：需自行 C:\python36-32\scripts\pip.exe install bs4</li>
+  <li>urllib</li>
+  <li>json</li>
+</ul>
+<br>
 <h3>下載範例：</h3>
 wget "https://i.hamreus.com/ps3/y/yiquanchaoren/%E7%AC%AC179%E8%AF%9D/0TIG5n.png.webp?e=1605310131&m=vzvYBcVxGKB-CsJzX5-XDQ" --user-agent="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" --referer "https://www.manhuagui.com/"  -O ok.png
 <h3>參考資料：</h3>
