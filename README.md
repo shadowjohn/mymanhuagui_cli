@@ -1,5 +1,5 @@
 # mymanhuagui_cli
-<h2>cli 模式抓 manhuagui 方法</h2>
+<h2>cli 模式抓 manhuagui 漫畫 方法</h2>
 <h3>Major Author : wzdlc1996</h3>
 <h3>Author : 羽山 https://3wa.tw/</h3>
 <h3>Version : 2020-11-06</h3>
