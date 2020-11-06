@@ -26,5 +26,7 @@ Page Link<br>
 <h3>下載範例：</h3>
 wget "https://i.hamreus.com/ps3/y/yiquanchaoren/%E7%AC%AC179%E8%AF%9D/0TIG5n.png.webp?e=1605310131&m=vzvYBcVxGKB-CsJzX5-XDQ" --user-agent="User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" --referer "https://www.manhuagui.com/"  -O ok.png
 <h3>參考資料：</h3>
-# From : https://github.com/wzdlc1996/mangaSpider
-# From : https://wzdlc1996.github.io/artic/other/mangaspider/
+<ul>
+  <li>1. https://github.com/wzdlc1996/mangaSpider</li>
+  <li>2. https://wzdlc1996.github.io/artic/other/mangaspider/</li>
+</ul>  
