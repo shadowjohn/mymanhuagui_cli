@@ -1,0 +1,1 @@
+c:\python36-32\scripts\pyinstaller.exe get_manhuagui.py -F
