@@ -2,7 +2,7 @@
 <h2>cli 模式抓 manhuagui 漫畫 方法</h2>
 <h3>Major Author : wzdlc1996</h3>
 <h3>Author : 羽山 https://3wa.tw/</h3>
-<h3>Version : 2020-11-06</h3>
+<h3>Version : 2020-11-07</h3>
 <br>
 <img src="snapshot/m1.png">
 直接下語法抓 manhuagui 漫畫列表
@@ -31,6 +31,7 @@ python36 (x86 32bit 版本)
   <li>dukpy：需自行 C:\python36-32\scripts\pip.exe install dukpy</li>
   <li>lzstring：需自行 C:\python36-32\scripts\pip.exe install lzstring</li>
   <li>bs4：需自行 C:\python36-32\scripts\pip.exe install bs4</li>
+  <li>lxml：需自行 C:\python36-32\scripts\pip.exe install lxml</li>
   <li>urllib</li>
   <li>json</li>
 </ul>
