@@ -74,3 +74,4 @@ for i in DS['files']:
   p = DS["path"].replace(DS["cname"],urllib.parse.quote(DS["cname"]))
   url = imgURL+str(p)+str(i)+"?e="+str(DS["sl"]["e"])+"&m="+str(DS["sl"]["m"])
   sys.stdout.write(url+"\n")
+sys.exit(0)  
