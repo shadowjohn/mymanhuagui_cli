@@ -66,12 +66,12 @@ def getDlSetting(url):
 #print(getCoreInfo(url))
 #https://i.hamreus.com/ps3/y/yiquanchaoren/第179话/0TIG5n.png.webp?e=1605310131&m=vzvYBcVxGKB-CsJzX5-XDQ
 
-DS = getCoreInfo(url) 
+DS = getCoreInfo(url)
+DS["path_encode"] = urllib.parse.quote(DS["path"])  
 sys.stdout.write(json.dumps(DS, indent=4))
 sys.stdout.write("\n########################################\n")
-for i in DS['files']:
-  p = DS["path"]
-  p = DS["path"].replace(DS["cname"],urllib.parse.quote(DS["cname"]))
+for i in DS['files']:  
+  p = urllib.parse.quote(DS["path"])    
   url = imgURL+str(p)+str(i)+"?e="+str(DS["sl"]["e"])+"&m="+str(DS["sl"]["m"])
   sys.stdout.write(url+"\n")
 sys.exit(0)  

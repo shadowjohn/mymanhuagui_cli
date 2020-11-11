@@ -2,7 +2,7 @@
 <h2>cli 模式抓 manhuagui 漫畫 方法</h2>
 <h3>Major Author : wzdlc1996</h3>
 <h3>Author : 羽山 https://3wa.tw/</h3>
-<h3>Version : 2020-11-07</h3>
+<h3>Version : 2020-11-11</h3>
 <br>
 <img src="snapshot/m1.png">
 直接下語法抓 manhuagui 漫畫列表
@@ -43,3 +43,7 @@ wget "https://i.hamreus.com/ps3/y/yiquanchaoren/%E7%AC%AC179%E8%AF%9D/0TIG5n.png
   <li>1. https://github.com/wzdlc1996/mangaSpider</li>
   <li>2. https://wzdlc1996.github.io/artic/other/mangaspider/</li>
 </ul>  
+<h3>Todo：</h3>
+<ul>
+  <li>(2020-11-11) 1. 修正下載網址的簡體中文改成 urlencode 後的內容</li>
+</ul>
