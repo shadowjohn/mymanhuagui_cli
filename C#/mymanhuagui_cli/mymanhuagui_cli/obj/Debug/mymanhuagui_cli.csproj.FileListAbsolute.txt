@@ -1,0 +1,7 @@
+E:\mytools\mymanhuagui_cli\C#\mymanhuagui_cli\mymanhuagui_cli\bin\Debug\mymanhuagui_cli.exe.config
+E:\mytools\mymanhuagui_cli\C#\mymanhuagui_cli\mymanhuagui_cli\bin\Debug\mymanhuagui_cli.exe
+E:\mytools\mymanhuagui_cli\C#\mymanhuagui_cli\mymanhuagui_cli\bin\Debug\mymanhuagui_cli.pdb
+E:\mytools\mymanhuagui_cli\C#\mymanhuagui_cli\mymanhuagui_cli\obj\Debug\mymanhuagui_cli.csprojAssemblyReference.cache
+E:\mytools\mymanhuagui_cli\C#\mymanhuagui_cli\mymanhuagui_cli\obj\Debug\mymanhuagui_cli.csproj.CoreCompileInputs.cache
+E:\mytools\mymanhuagui_cli\C#\mymanhuagui_cli\mymanhuagui_cli\obj\Debug\mymanhuagui_cli.exe
+E:\mytools\mymanhuagui_cli\C#\mymanhuagui_cli\mymanhuagui_cli\obj\Debug\mymanhuagui_cli.pdb
